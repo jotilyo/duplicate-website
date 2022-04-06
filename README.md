@@ -1,2 +1,2 @@
 # duplicate-website
- A duplicate responsive website
+ A duplicate responsive website.
